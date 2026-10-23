@@ -42,7 +42,7 @@ cd Laravel-13-Blade-TailAdmin-StarterKit
    # Install PHP dependencies
 composer install
 
-   #Install Frontend dependencies
+   # Install Frontend dependencies
 npm install
 
 # 3. Environment Setup
